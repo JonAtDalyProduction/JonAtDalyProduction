@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonAtDalyProduction
 - 👀 I’m interested in web dev , dev ops , streaming media , whiskey , wine , and smoked meats.
-- 🌱 I’m currently learning Typescript, React, Docker.
+- 🌱 I’m currently learning Typescript and React.
 - 💞️ I’m looking to collaborate on anything Javascript.
 - 📫 How to reach me @dalyproduction on most socials. jsdaly@dalyproduction.com
