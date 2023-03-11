@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @JonAtDalyProduction
 - 👀 I’m interested in k8s, web dev , dev ops , streaming media , whiskey , wine , and smoked meats.
-- 🌱 I’m currently learning GO.
-- 💞️ I’m looking to collaborate on cloud native projects.
-- 📫 How to reach me @dalyproduction on most socials. jsdaly@dalyproduction.com
